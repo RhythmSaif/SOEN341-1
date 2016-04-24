@@ -1,0 +1,25 @@
+3.3 Constraints and Qualities
+
+3.3.1 Performance
+
+Lotus is expected to have a rather fast response time; it can take at most 5 seconds by taking into account all the different types of requests available in the system. 
+
+3.3.2 Usability
+
+Lotus will provide a user-friendly environment and will be easily accessible to current web browsers. It will have a user interactive interface that guides the users throughout the process of using the system. It should be a simple and efficient program for students to be able to use without any problems.
+
+3.3.3 Reliability 
+
+As Lotus will be providing real time information, there will be constant updates so the users do not encounter any issues. It will be accessible 24/7 and if at any point the server goes down there will be a backup server that will still allow students to generate schedules. 
+
+3.3.4 Interoperability 
+
+Lotus will require the users to have a basic operating system (Windows, Mac, Linux, etc.) in order to run the desired web browser (Google Chrome, Firefox, IE, etc.) which will be able to access our web application. 
+
+3.3.5 Scalability
+
+Lotus should be able to support a fairly large amount of simultaneous users and it should run smoothly unless there is an unusual amount of requests overloading the system. Then, a warning message to current users will be prompted to be a little bit patient while the amount of traffic is reduced and the system is back to normal. 
+
+3.3.6 Security
+
+Lotus will only allow access to authenticated users. The passwords will be encrypted and hashed. A session will expire if there is inactivity for about 15 minutes. The system will request the user to log in again to prevent information leaks if he/she tries to return to a previous page.  
